@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564285304065",
+    "firebase_url": "https://testentregable.firebaseio.com",
+    "project_id": "testentregable",
+    "storage_bucket": "testentregable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564285304065:android:455b9dc0346d66f6",
+        "android_client_info": {
+          "package_name": "com.example.federico.entregablemvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564285304065-77eepsg8qvbf103h02rnvjtmj27dajs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.federico.entregablemvc",
+            "certificate_hash": "33eae6ef00802d4dd85db8f42e07767052f8ca29"
+          }
+        },
+        {
+          "client_id": "564285304065-89v0rdhpq916vmnba94p4q42t126svav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJz8ZxFXEuPQOuqkNi4rJqjxFw2LMwvKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564285304065-89v0rdhpq916vmnba94p4q42t126svav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
